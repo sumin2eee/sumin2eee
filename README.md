@@ -1,1 +1,1 @@
-![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발자%20text강수민)
+![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발자%20강수민입니다)
